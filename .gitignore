@@ -3,7 +3,8 @@ node_modules
 Thumbs.db
 .vscode
 .idea/
-.lock
+composer.lock
+/vendor/
 
 # Logs
 logs
@@ -64,3 +65,7 @@ typings/
 # dotenv environment variables file
 .env
 
+
+
+vendor
+composer.lock
